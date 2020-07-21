@@ -79,5 +79,5 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 
-homepage : https://hyperweb.ai
-
+homepage : "https://hyperweb.ai"
+repository : "https://github.com/hyperwebai/flutterdev"
